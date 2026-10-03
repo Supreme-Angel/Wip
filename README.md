@@ -5,3 +5,4 @@
 
 ![Alt text](https://github.com/Supreme-Angel/Wip/blob/8875a439fa454688a5ddc478b861251677761166/Untitled5.2026.09.30-21.33.1_20261002103838.png)
 ![alt text](https://github.com/Supreme-Angel/Wip/blob/96b16cbd4a12788f23cb1c7088f12f9c1ec9ace4/Untitled13_20261001103045.png)
+my readmd looks better in light mode istg
